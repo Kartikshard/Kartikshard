@@ -57,16 +57,7 @@ class KartikSharma:
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## ◾ GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kartikshard&show_icons=true&hide_border=true&bg_color=0d0907&title_color=c8a27c&icon_color=a9795a&text_color=e8d5c0&ring_color=c8a27c"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikshard&layout=compact&hide_border=true&bg_color=0d0907&title_color=c8a27c&text_color=e8d5c0"/>
-
-<img width="98%" src="https://streak-stats.demolab.com?user=Kartikshard&hide_border=true&background=0d0907&ring=c8a27c&fire=c8a27c&currStreakLabel=e8d5c0&currStreakNum=e8d5c0&sideLabels=e8d5c0&sideNums=e8d5c0&dates=a9795a"/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikshard&bg_color=0d0907&color=c8a27c&line=a9795a&point=e8d5c0&area=true&area_color=a9795a&hide_border=true"/>
 
 </div>
 
