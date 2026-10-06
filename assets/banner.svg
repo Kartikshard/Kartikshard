@@ -1,0 +1,42 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0907"/><stop offset=".6" stop-color="#241711"/><stop offset="1" stop-color="#3a271c"/></linearGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#8a5f45"/><stop offset=".6" stop-color="#c8a27c"/><stop offset="1" stop-color="#e8d5c0"/></linearGradient>
+<linearGradient id="ar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c8a27c" stop-opacity=".25"/><stop offset="1" stop-color="#c8a27c" stop-opacity="0"/></linearGradient>
+<radialGradient id="gl"><stop offset="0" stop-color="#c8a27c" stop-opacity=".4"/><stop offset="1" stop-color="#c8a27c" stop-opacity="0"/></radialGradient>
+<pattern id="gr" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c8a27c" stroke-opacity=".07"/></pattern>
+<clipPath id="rc"><rect width="1000" height="300" rx="18"/></clipPath>
+</defs>
+<style>
+.n{font:800 54px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e8d5c0;letter-spacing:6px;opacity:0;animation:up 1.2s .3s ease-out forwards}
+.s{font:500 16px 'Courier New',monospace;fill:#c8a27c;letter-spacing:3px;opacity:0;animation:up 1.2s .8s ease-out forwards}
+.t{font:400 13px 'Courier New',monospace;fill:#a9795a;opacity:0;animation:up 1.2s 1.2s ease-out forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+.ch{stroke-dasharray:900;stroke-dashoffset:900;animation:dr 3.5s 1s ease-out forwards}
+@keyframes dr{to{stroke-dashoffset:0}}
+.ar{opacity:0;animation:fi 2s 3s forwards}@keyframes fi{to{opacity:1}}
+.p{transform-box:fill-box;transform-origin:center;animation:pl 2.4s ease-in-out infinite}
+@keyframes pl{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.9);opacity:.5}}
+.fl{animation:fl 9s ease-in-out infinite}@keyframes fl{0%,100%{transform:translate(0,0)}50%{transform:translate(40px,-20px)}}
+.sc{animation:sc 6s linear infinite}@keyframes sc{from{transform:translateX(0)}to{transform:translateX(1000px)}}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<g clip-path="url(#rc)">
+<rect width="1000" height="300" fill="url(#bg)"/>
+<rect width="1000" height="300" fill="url(#gr)"/>
+<circle class="fl" cx="780" cy="120" r="200" fill="url(#gl)"/>
+<rect class="sc" x="-2" y="0" width="2" height="300" fill="#c8a27c" opacity=".12"/>
+<g fill="none" stroke="#c8a27c" stroke-opacity=".12"><circle cx="870" cy="150" r="130"/><circle cx="870" cy="150" r="90"/><circle cx="870" cy="150" r="50"/></g>
+<path class="ar" d="M540 230 C610 220 630 150 690 170 S770 110 820 130 S910 70 960 85 L960 260 L540 260Z" fill="url(#ar)"/>
+<path class="ch" d="M540 230 C610 220 630 150 690 170 S770 110 820 130 S910 70 960 85" fill="none" stroke="url(#ln)" stroke-width="3" stroke-linecap="round"/>
+<g fill="#e8d5c0">
+<circle class="p" cx="690" cy="170" r="4" style="animation-delay:.2s"/>
+<circle class="p" cx="820" cy="130" r="4" style="animation-delay:.9s"/>
+<circle class="p" cx="960" cy="85" r="4" style="animation-delay:1.5s"/></g>
+<g stroke="#c8a27c" stroke-opacity=".3" stroke-width="1"><line x1="540" y1="260" x2="960" y2="260"/><line x1="540" y1="60" x2="540" y2="260"/></g>
+<rect x="40" y="40" width="46" height="3" fill="#c8a27c"/>
+<text class="s" x="40" y="72">&lt; DATA SCIENCE /&gt;</text>
+<text class="n" x="40" y="150">KARTIK</text>
+<text class="n" x="40" y="212">SHARMA</text>
+<text class="t" x="42" y="250">machine learning · analytics · predictive modeling<tspan class="cur">_</tspan></text>
+</g></svg>

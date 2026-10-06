@@ -1,0 +1,6 @@
+<svg width="1000" height="160" viewBox="0 0 1000 160" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a271c"/><stop offset="1" stop-color="#0d0907"/></linearGradient></defs>
+<style>.t{font:500 13px 'Courier New',monospace;fill:#c8a27c;letter-spacing:4px;text-anchor:middle;animation:b 3s ease-in-out infinite}@keyframes b{0%,100%{opacity:.45}50%{opacity:1}}</style>
+<path d="M0 70 Q75.0 52 150.0 70 T300 70 Q375.0 52 450.0 70 T600 70 Q675.0 52 750.0 70 T900 70 Q975.0 52 1050.0 70 T1200 70 Q1275.0 52 1350.0 70 T1500 70 Q1575.0 52 1650.0 70 T1800 70 L1800 160 L0 160Z" fill="url(#g)" opacity=".55"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="14s" repeatCount="indefinite"/></path>
+<path d="M0 80 Q55.0 68 110.0 80 T220 80 Q275.0 68 330.0 80 T440 80 Q495.0 68 550.0 80 T660 80 Q715.0 68 770.0 80 T880 80 Q935.0 68 990.0 80 T1100 80 Q1155.0 68 1210.0 80 T1320 80 Q1375.0 68 1430.0 80 T1540 80 Q1595.0 68 1650.0 80 T1760 80 Q1815.0 68 1870.0 80 T1980 80 L1980 160 L0 160Z" fill="#241711" opacity=".9"><animateTransform attributeName="transform" type="translate" from="-440 0" to="0 0" dur="11s" repeatCount="indefinite"/></path>
+<text class="t" x="500" y="125">THANKS FOR STOPPING BY</text></svg>
