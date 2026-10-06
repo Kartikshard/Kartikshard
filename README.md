@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3a271c?style=for-the-badge&logo=linkedin&logoColor=c8a27c)](https://www.linkedin.com/in/kartik-sharma-946443332)
 [![GitHub](https://img.shields.io/badge/GitHub-Kartikshard-3a271c?style=for-the-badge&logo=github&logoColor=c8a27c)](https://github.com/Kartikshard)
-<img src="https://komarev.com/ghpvc/?username=Kartikshard&style=for-the-badge&color=3a271c&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
